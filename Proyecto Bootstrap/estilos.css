@@ -1,0 +1,17 @@
+/* TIPO DE ÑLETRA DESDE GOOGLE */
+:root{
+    /* COLORES */
+    --color-pink: rgb(224, 161, 224);
+    --color-purple: purple;
+}
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Caprasimo', cursive ;
+}
+/* MODIFICAR ICONOS */
+.icono{
+    font-size: 50px;
+    color: pink;
+}
+.Parrafo{
+    color: var(--color-pink);
+}
